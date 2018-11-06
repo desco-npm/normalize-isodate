@@ -1,6 +1,6 @@
 {
   "name": "@desco/normalize-isodate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transforms an ISO date into a string in the American date format",
   "author": "Rafael A. R. Dias <contato@diasrafael.com.br>",
   "repository": {

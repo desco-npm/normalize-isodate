@@ -1,11 +1,11 @@
 {
   "name": "@desco/normalize-isodate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Transforms an ISO date into a string in the American date format",
   "author": "Rafael A. R. Dias <contato@diasrafael.com.br>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/descodifica/jsonToSqlWhere.git"
+    "url": "git+https://github.com/descodifica/normalize-isodate"
   },
   "main": "index.js",
   "private": false,
